@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="sistema_gestion_biblioteca.CapaVista.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Css/cssmenu.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+                        <details>
+  <summary></summary>
+  <nav class="menu">
+    <a href="gestion_biblioteca.aspx">Gestionar Librería</a>
+    <a href="Busqueda.aspx">Buscar</a>
+    <a href="Solicitar.aspx">Solicitar Libros</a>
+    <a href="Devolver.aspx">Devolucion de Libros</a>
+    <a href="gestion_usuarios.aspx">Gestionar Usuarios</a>
+    <!-- <a href="#link">About</a> -->
+  </nav>
+</details>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

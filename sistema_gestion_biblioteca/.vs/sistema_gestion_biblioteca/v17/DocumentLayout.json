@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\busqueda.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\busqueda.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capadatos\\cls_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capadatos\\cls_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\gestion_biblioteca.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\gestion_biblioteca.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\solicitar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\solicitar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\solicitar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\solicitar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\busqueda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\busqueda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\tarea poo\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\gestion_usuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\gestion_usuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\gestion_biblioteca.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\gestion_biblioteca.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\gestion_usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\gestion_usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\devolver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\devolver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capadatos\\cls_solicitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capadatos\\cls_solicitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capadatos\\cls_devolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capadatos\\cls_devolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capadatos\\cls_busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capadatos\\cls_busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capadatos\\cls_biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capadatos\\cls_biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\css\\cssmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\css\\cssmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\capavista\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EB10F7F5-E403-425B-BB74-E6B052EB1D38}|sistema_gestion_biblioteca\\sistema_gestion_biblioteca.csproj|solutionrelative:sistema_gestion_biblioteca\\capavista\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gestion_biblioteca.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\gestion_biblioteca.aspx.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\gestion_biblioteca.aspx.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\gestion_biblioteca.aspx.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\gestion_biblioteca.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:47:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Busqueda.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Busqueda.aspx.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\Busqueda.aspx.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Busqueda.aspx.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\Busqueda.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:49:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Solicitar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Solicitar.aspx.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\Solicitar.aspx.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Solicitar.aspx.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\Solicitar.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:58:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Solicitar.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Solicitar.aspx",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\Solicitar.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Solicitar.aspx",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\Solicitar.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:51:53.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Inicio.aspx",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Inicio.aspx",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:29:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cls_usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_usuario.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaDatos\\cls_usuario.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_usuario.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaDatos\\cls_usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:16:59.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Busqueda.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Busqueda.aspx",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\Busqueda.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Busqueda.aspx",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\Busqueda.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:51:19.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "gestion_usuarios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\gestion_usuarios.aspx.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\gestion_usuarios.aspx.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\gestion_usuarios.aspx.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\gestion_usuarios.aspx.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:20:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gestion_biblioteca.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\gestion_biblioteca.aspx",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\gestion_biblioteca.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\gestion_biblioteca.aspx",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\gestion_biblioteca.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:50:36.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\Web.config",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\Web.config",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\Web.config",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T03:52:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Devolver.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Devolver.aspx",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\Devolver.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Devolver.aspx",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\Devolver.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:52:25.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gestion_usuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\gestion_usuarios.aspx",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\gestion_usuarios.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\gestion_usuarios.aspx",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\gestion_usuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:53:12.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cls_solicitar.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_solicitar.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaDatos\\cls_solicitar.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_solicitar.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaDatos\\cls_solicitar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:16:15.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cls_devolver.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_devolver.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaDatos\\cls_devolver.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_devolver.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaDatos\\cls_devolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:15:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cls_busqueda.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_busqueda.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaDatos\\cls_busqueda.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_busqueda.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaDatos\\cls_busqueda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:15:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "cls_biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_biblioteca.cs",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaDatos\\cls_biblioteca.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaDatos\\cls_biblioteca.cs",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaDatos\\cls_biblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:16:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cssmenu.css",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\Css\\cssmenu.css",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\Css\\cssmenu.css",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\Css\\cssmenu.css",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\Css\\cssmenu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T22:08:19.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Site1.Master",
+              "RelativeDocumentMoniker": "sistema_gestion_biblioteca\\CapaVista\\Site1.Master",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Tarea POO\\sistema_gestion_biblioteca\\sistema_gestion_biblioteca\\CapaVista\\Site1.Master",
+              "RelativeToolTip": "sistema_gestion_biblioteca\\CapaVista\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T22:15:10.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
